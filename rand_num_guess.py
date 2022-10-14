@@ -5,7 +5,6 @@
 # Date: Oct. 11, 2022
 # programs that lets you guess the randomly generated number
 
-
 import random
 
 
